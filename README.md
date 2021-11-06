@@ -1,6 +1,5 @@
 # comandi git
 
 Creato un nuovo branch
-
-ok
+questo l'ho scritto dal branch nuovo
 
