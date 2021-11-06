@@ -1,4 +1,4 @@
-# Manuale Git
+# Manuale Comandi Git
 
 ## git **init**
 
